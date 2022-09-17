@@ -9,4 +9,5 @@ Please, refere to the [paper](https://github.com/arcangeloC-137/Twitter-Sentimen
 
 ---
 Contributors to this project are: Frigiola Arcangelo, and La Malfa Gianluca.
+
 A.Y. 2021/22
