@@ -5,9 +5,9 @@ Sentiment analysis is the process of classifying whether a block of text is posi
 
 In this project we introduce a possible approach to the Tweets Sentiment Classification problem. The proposed approach consists of choosing the most influntial features of the dataset and build a classification pipelone.
 
-Please, refere to the [paper](https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis/blob/main/Twitter%20Sentiment%20Analysis.pdf) for further information.
+Please, refere to the related [paper](https://github.com/arcangeloC-137/Twitter-Sentiment-Analysis/blob/main/Twitter%20Sentiment%20Analysis.pdf) for further information.
 
 ---
-Contributors to this project are: Frigiola Arcangelo, and La Malfa Gianluca.
+Contributors to this project are: [Frigiola Arcangelo](https://github.com/arcangeloC-137), and [La Malfa Gianluca](https://github.com/GianlucaLM-1).
 
 A.Y. 2021/22
